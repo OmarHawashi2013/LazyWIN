@@ -10,7 +10,7 @@ first tool (Ghost Mouse):
 
 <ul>
   <li>
-    Go to main.exe and run it and you can control with your arrows and (Enter + \)
+    Go to the exe and run it and you can control with your arrows and (Enter + \)
   </li>
   <li>
     You can edit your code for your self to suit you
