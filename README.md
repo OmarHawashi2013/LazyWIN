@@ -17,7 +17,6 @@ LazeWIN is a bunch of tools that help you in the normal daily tasks.
   </li>
 </ul>
 <hr>
-<br><br>
 
 <h2>Second tool (Limiter Killer):</h2>
 <div align="center">
